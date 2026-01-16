@@ -4,3 +4,5 @@ console.log("Fitur baru")
 
 console.log("Fitur baru 2")
 console.log("Fitur baru 3")
+
+console.log("Fitur baru menggunakan branch")
